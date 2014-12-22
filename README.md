@@ -6,6 +6,8 @@ a flappy bird clone for Samsung Gear watch, made with [Unity3D](http://unity3d.c
 
 [Video from coding session](https://www.youtube.com/watch?v=CT-LshUosIs)
 
+[Download APK](https://github.com/walm/flappy-gear/releases/tag/0.1.0)
+
 ## License
 
 MIT License
